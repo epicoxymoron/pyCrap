@@ -1,0 +1,5 @@
+# ignore Python bytecode
+*.pyc
+
+# and Vim swapfiles
+*.sw[op]
