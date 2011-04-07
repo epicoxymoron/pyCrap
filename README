@@ -6,14 +6,25 @@ Goal:
 The idea here is to create a Craps game to help me get more familiar
 with both the game of Craps itself and the Python language.
 
+License: 
+I chose to use the Apache 2.0 over the BSD and the GPL for the following 
+reasons:
+    1.) Apache 2.0 is GPLv3-compatible.
+    2.) Derivative works don't need to be licensed under the Apache license,
+        giving other developers the ability to choose licensing terms that 
+        make sense for them.  In this sense, it's weaker than the GPL.
+    3.) However, derivative works still must give all credit where it's due,
+        which is all I'm really after.  In this sense it's stronger than the
+        BSD licenses which I typically tend to favor.
+
 Priorities:
-	1.) Get a game engine going with a minimal set of table spaces
-	2.) Get a more complete set of table spaces
-	3.) Get a very basic CLI going
-	4.) Make it a multi-player game
-	5.) Basic GUI?
-	6.) Network game?
-	7.) Prettier GUI?
+    1.) Get a game engine going with a minimal set of table spaces
+    2.) Get a more complete set of table spaces
+    3.) Get a very basic CLI going
+    4.) Make it a multi-player game
+    5.) Basic GUI?
+    6.) Network game?
+    7.) Prettier GUI?
 
 Then, once I understand more fully how the game works, I can retire and 
 live only on my Craps winnings...
